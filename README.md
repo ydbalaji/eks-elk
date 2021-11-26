@@ -16,4 +16,4 @@ More information about Filebeat: https://www.elastic.co/products/beats/filebeat
 
 # Solution Architect
 
-![aws elk](elk.png) 
+![aws elk](elk.jpg) 
